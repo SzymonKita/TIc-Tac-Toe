@@ -1,5 +1,3 @@
-package basicJavaTutorial;
-
 import java.util.Scanner;
 
 public class TicTacToe {
